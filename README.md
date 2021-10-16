@@ -7,6 +7,8 @@
 
 <h3>Technologies I have worked with</h3>
 
+<h6>🎨 Frontend </h6>
+
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-curve&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-curve&logo=brave&logoColor=white" />
