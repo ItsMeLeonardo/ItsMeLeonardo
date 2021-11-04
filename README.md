@@ -17,6 +17,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-264de4?style=flat-curve&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8e17fd?style=flat-curve&logo=bootstrap&logoColor=white" />
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-60A5FA?style=flat-curve&logo=tailwindcss&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-npm-ff4b01?style=flat-curve&logo=npm&logoColor=white" />
 </p>
 
 <h6>🎨 Backend </h6>
