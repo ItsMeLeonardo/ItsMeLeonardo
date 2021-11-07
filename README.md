@@ -18,6 +18,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8e17fd?style=flat-curve&logo=bootstrap&logoColor=white" />
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-60A5FA?style=flat-curve&logo=tailwindcss&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-npm-ff4b01?style=flat-curve&logo=npm&logoColor=white" />
+  <img alt="vitejs" src="https://img.shields.io/badge/-ViteJs-b53eff?style=flat-curve&logo=vite&logoColor=f1b815" />
 </p>
 
 <h6>🎨 Backend </h6>
