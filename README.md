@@ -21,7 +21,7 @@
   <img alt="vitejs" src="https://img.shields.io/badge/-ViteJs-b53eff?style=flat-curve&logo=vite&logoColor=f1b815" />
 </p>
 
-<h6>🎨 Backend </h6>
+<h6>📦 Backend </h6>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-curve&logo=java&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-curve&logo=mongodb&logoColor=white" />
@@ -30,7 +30,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySql-f29111?style=flat-curve&logo=mysql&logoColor=white" />
 </p>
 
-<h6>🎨 Others </h6>
+<h6> ✨ Others </h6>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-curve&logo=git&logoColor=white" />
   <img alt="AdobeXd" src="https://img.shields.io/badge/-AdobeXd-7b1fa2?style=flat-curve&logo=adobexd&logoColor=white" />
