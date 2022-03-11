@@ -1,10 +1,13 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> Hi 👋, Welcome to my little space </h1>
-<p>
+
+<div align="center">
+  <p>
   Hi I'm Leonardo from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="15"> Lima, Perú.
   I like to work in a team because I believe that our skills complement each other, so we can learn from each other.
-</p>
-<h2 align="center"> <i> Never stop learning, because life stops teaching </i></h2>
-
+  </p>
+  <h2 align="center"> <i> Never stop learning, because life stops teaching </i></h2>
+  <a href="https://app.daily.dev/itsMeLeonardo"><img src="https://api.daily.dev/devcards/7073f6874a6c4f2da0b720d62db9df64.png?r=78t" width="400" alt="carlos leonardo Cruces Huaman's Dev Card"/></a>
+</div>
 <h3>Technologies I have worked with</h3>
 
 <h6>🎨 Frontend </h6>
