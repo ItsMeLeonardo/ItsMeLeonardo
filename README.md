@@ -1,7 +1,7 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> Hi 👋, Welcome to my little space </h1>
 
 <div align="center">
-  <p>
+  <p align="start">
   Hi I'm Leonardo from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="15"> Lima, Perú.
   I like to work in a team because I believe that our skills complement each other, so we can learn from each other.
   </p>
